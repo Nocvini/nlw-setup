@@ -26,7 +26,7 @@ header {
 button {
   padding: 16px 24px;
   border-radius: 8px;
-  border: 1px solid #8b5cf6;
+  border: 1px solid #e10b0b;
   background-color: transparent;
   color: white;
 
@@ -104,8 +104,8 @@ input {
 }
 
 input:checked {
-  background: #8b5cf6;
-  border: 2px solid #a78bfa;
+  background: #e10b0b;
+  border: 2px solid #201f21;
 }
 
 @media (max-width: 570px) {
